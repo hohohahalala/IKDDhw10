@@ -1,0 +1,21 @@
+{
+  "name": "IKDDhw10",
+  "version": "0.1.2",
+  "description": "IKDDhw10",
+  "main": "IKDDhw10.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~4.9.x"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "IKDDTeam4"
+}
