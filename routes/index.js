@@ -11,8 +11,12 @@ module.exports = function (app) {
   		response.send("Welcome to the about page!");
 	});
 
-	app.get("/IKDDhw10", function(request, response) {
-  		response.sendfile('./views/IKDDhw10.html');
+	app.get("/IKDDhw10-1", function(request, response) {
+  		response.sendfile('./views/IKDDhw10-1.html');
+  	});
+
+  	app.get("/IKDDhw10-2", function(request, response) {
+  		response.sendfile('./views/IKDDhw10-2.html');
   	});
 
 
