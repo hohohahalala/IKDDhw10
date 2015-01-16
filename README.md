@@ -1,9 +1,9 @@
 #IKDDhw10
 
-Trying D3.js to visualize government's open data.
+Trying D3.js to visualize government's open data and build on Heroku.
 
 ```
-#Data Set
+##Data Set
 
 政府資料開放平台-空氣品質及時汙染指標(http://data.gov.tw/node/6074)
 
