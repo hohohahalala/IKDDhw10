@@ -32,3 +32,8 @@ Gallery model: Pie Chart
 
 Transition: rotate
 ```
+
+##Learn from data set
+```
+
+```
