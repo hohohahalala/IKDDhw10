@@ -1,6 +1,6 @@
 #IKDDhw10
 
-Trying D3.js to visualize government's open data and build on Heroku.
+Trying D3.js to visualize government's open data and build on Heroku and github.io.
 
 ##Data Set
 ```
@@ -11,7 +11,10 @@ Data Format - CSV
 
 ##IKDDhw10-1
 ```
-URL:
+URL:(1)github.io:
+		http://hohohahalala.github.io/IKDDhw10-1
+	(2)Heroku:
+		https://young-oasis-5458.herokuapp.com/IKDDhw10-1(Safari only)
 
 Gallery model: Bar Chart
 
@@ -20,7 +23,10 @@ Transition: position transition
 
 ##IKDDhw10-2
 ```
-URL:
+URL:(1)github.io:
+		http://hohohahalala.github.io/IKDDhw10-2
+	(2)Heroku:
+		https://young-oasis-5458.herokuapp.com/IKDDhw10-1(Safari only)
 
 Gallery model: Pie Chart 
 
