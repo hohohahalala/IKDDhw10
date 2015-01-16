@@ -2,15 +2,15 @@
 
 Trying D3.js to visualize government's open data and build on Heroku.
 
-```
 ##Data Set
-
+```
 政府資料開放平台-空氣品質及時汙染指標(http://data.gov.tw/node/6074)
 
 Data Format - CSV
 
 ```
 
+##IKDDhw10-1
 ```
 URL:
 
@@ -19,6 +19,7 @@ Gallery model: Bar Chart
 Transition: position transition 
 ```
 
+##IKDDhw10-2
 ```
 URL:
 
