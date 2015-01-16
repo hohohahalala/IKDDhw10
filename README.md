@@ -26,7 +26,7 @@ Transition: position transition
 URL:(1)github.io:
 		http://hohohahalala.github.io/IKDDhw10-2
 	(2)Heroku:
-		https://young-oasis-5458.herokuapp.com/IKDDhw10-1(Safari only)
+		https://young-oasis-5458.herokuapp.com/IKDDhw10-2(Safari only)
 
 Gallery model: Pie Chart 
 
